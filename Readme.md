@@ -43,8 +43,12 @@ This is the backend for the Sales Analytics Dashboard built using Node.js, Expre
 - **Route**: `api/order/totalsales/getclv`
 - **Description**: Groups customers by their first purchase date and calculates the customer lifetime value based on their purchase history.
 
-## Documentation
-
-### 1. Frontend Documentation
+## Project Documentation
 
 - [Frontend Repository](https://github.com/MohamedUmar083/Rapid_Quest_Frontend) - The Frontend repository for the project.
+
+- [Api Documentation](https://documenter.getpostman.com/view/25526528/2sAXqne4hY) - Detailed documentation of the API endpoints.
+
+- [Frontend Deployment](https://rq-ecomm.netlify.app/) - Live version of the frontend application.
+
+- [Backend Deployment](https://rapid-quest-backend.onrender.com/ping) - Live version of the backend application.
